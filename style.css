@@ -1,0 +1,57 @@
+body {
+		background-color: gold;
+}
+
+h1 {
+		text-align: center;
+		color: Maroon;
+		font-size: 60px;
+		font-family: Fantasy;
+
+}
+
+h1#name {
+		text-align: center;
+		color: Black;
+		font-family: Cursive;
+}
+
+h1.section {
+		text-align: left;
+		font-size: 28px;
+		color: Black;
+		font-family: Sans-serif;
+}
+
+p {
+		text-align: left;
+		color: Black;
+		font-size: 21px;
+		font-family: "Comic Sans";
+}
+
+p.content {
+		text-align: left;
+		color: Black;
+		font-size: 21px;
+		font-family: "Comic Sans";
+}
+
+p#picture {
+		text-align:center;
+}
+
+p.link {
+		text-align: center;
+		color: DarkBlue;
+		font-size: 42px;
+		font-family: Fantasy;
+}
+
+ul {
+		text-align: left;
+		color: Black;
+		font-size: 21px;
+		font-family: "Comic Sans";
+
+}
